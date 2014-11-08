@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1337145261 source:c:\users\ankit\desktop\compression\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<cstdlib>
+	"lzss.h"
+	"bwt.h"
+	"rle.h"
+	"fmfe.h"
+
+1337089576 c:\users\ankit\desktop\compression\lzss.h
+
+1337087706 c:\users\ankit\desktop\compression\bwt.h
+
+1337091038 c:\users\ankit\desktop\compression\rle.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fcntl.h>
+	<stdlib.h>
+
+1337144727 c:\users\ankit\desktop\compression\fmfe.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
